@@ -1,0 +1,77 @@
+.custom-container {
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-title {
+    margin-bottom: 50px;
+}
+
+.top-button-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.position {
+    display: flex;
+}
+
+.ml-1 {
+    margin-left: 10px;
+}
+
+.employee {
+
+}
+
+.employee-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.employee-top {
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+    color: #bbbbbb;
+}
+
+.employee-top__item {
+    width: 400px;
+}
+
+.employee-list {
+}
+
+.employee-list-employee {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.employee-list-employee-about {
+    display: flex;
+    justify-content: space-between;
+    max-width: 900px;
+}
+
+.employee-list-employee-about > div {
+    width: 400px;
+}
+
+.employee-list-employee-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.employee-list-employee-buttons button {
+    max-width: 250px;
+    height: 40px;
+}
+
+.error-message {
+    display: flex;
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
